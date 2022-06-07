@@ -16,6 +16,7 @@
 - **Mã lớp:** CS523.M21.KHCL
 - **Năm học:** HK2 (2021-2022)
 - **Giảng viên:** Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
+- **Tên chủ đề:** Computational Graph
 
 - **Số thứ tự nhóm:** 13
 ## Giới thiệu thành viên nhóm:
